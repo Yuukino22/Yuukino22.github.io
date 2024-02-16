@@ -32,6 +32,31 @@ Publications and Preprints
   </div>
 </div>
 
+<div style="display: flex; margin-bottom: 20px;">
+  <div style="flex: 40%; padding-right: 20px;">
+    <img src="../assets/medgen3d.png" alt="Paper 2" style="width: 100%;">
+  </div>
+  <div style="flex: 60%;">
+    <strong>MedGen3D: A Deep Generative Framework for Paired 3D Image and Mask Generation</strong><br>
+    <a href="https://scholar.google.com/citations?user=GdIW8DUAAAAJ&hl=en">Kun Han</a>, <a href="https://yuukino22.github.io/">Yifeng Xiong</a>, <a href="https://chenyuyou.me/">Chenyu You</a>, 
+    <a href="https://khosravipooya.com/">Pooya Khosravi</a>, <a href="https://scholar.google.com/citations?user=c6wKvwgAAAAJ&hl=en">Shanlin Sun</a>, <a href="https://scholar.google.com/citations?user=-feNPnkAAAAJ&hl=en">Xiangyi Yan</a>, <a href="https://medicine.yale.edu/profile/james-duncan/">James Duncan</a>, <a href="https://ics.uci.edu/~xhx/">Xiaohui Xie</a><br>
+    <em>MICCAI, 2023</em><br>
+    <a href="https://arxiv.org/abs/2304.04106">Paper</a>
+  </div>
+</div>
+
+<div style="display: flex; margin-bottom: 20px;">
+  <div style="flex: 40%; padding-right: 20px;">
+    <img src="../assets/alz.png" alt="Paper 1" style="width: 100%;">
+  </div>
+  <div style="flex: 60%;">
+    <strong>Characterizing dysregulations via cell-cell communications in Alzheimer's brains using single-cell transcriptomes</strong><br>
+    <a href="https://www.chewyjoey.net//">Cheyu Lee*</a>, <a href="https://scholar.google.com/citations?user=J19aMB4AAAAJ&hl=en">Dylan Riffle*</a>, <a href="https://yuukino22.github.io/">Yifeng Xiong*</a>, <a href="https://www.linkedin.com/in/nadia-momtaz/">Nadia Momtaz</a>, <a href="https://scholar.google.com/citations?user=Jijz0aUAAAAJ&hl=en">Ahyeon Hwang</a>, <a href="https://zihengduan.cn/">Ziheng Duan</a>, <a href="https://ics.uci.edu/~jingz31/">Jing Zhang</a><br>
+    <em>biorxiv, 2023</em><br>
+    <a href="https://www.biorxiv.org/content/10.1101/2023.07.16.548274v1">Paper</a>
+  </div>
+</div>
+
 Website Source
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.

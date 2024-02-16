@@ -15,7 +15,7 @@ You can find my CV here: [Yifeng's Curriculum Vitate](../assets/CV.pdf)
 
 Recent News
 ======
-- \[Sep 2023\] I completed the ICS Honors Program!
+- \[Sep 2023\] I complete the ICS Honors Program!
 - \[Jun 2023\] MedGen3D is accepted to MICCAI 2023!
 
 Publications and Preprints

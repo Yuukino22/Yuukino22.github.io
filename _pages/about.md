@@ -28,7 +28,7 @@ Publications and Preprints
     <strong>Light Field Diffusion for Single-View Novel View Synthesis</strong><br>
     <a href="https://yuukino22.github.io/">Yifeng Xiong</a>, <a href="https://ics.uci.edu/~haoyum3">Haoyu Ma</a>, <a href="https://scholar.google.com/citations?user=c6wKvwgAAAAJ&hl=en">Shanlin Sun</a>, <a href="https://scholar.google.com/citations?user=GdIW8DUAAAAJ&hl=en">Kun Han</a>, <a href="https://scholar.google.com/citations?user=2X3D1-4AAAAJ&hl=en">Hao Tang</a>, <a href="https://ics.uci.edu/~xhx/">Xiaohui Xie</a><br>
     <em>arxiv, 2023</em><br>
-    <a href="https://lightfielddiffusion.github.io/">Webpage</a> / <a href="[URL_TO_PAPER](https://arxiv.org/abs/2309.11525)">Paper Link</a> / <a href="https://lightfielddiffusion.github.io/">Code</a>
+    <a href="https://lightfielddiffusion.github.io/">Webpage</a> / <a href="https://arxiv.org/abs/2309.11525">Paper</a> / <a href="https://lightfielddiffusion.github.io/">Code</a>
   </div>
 </div>
 

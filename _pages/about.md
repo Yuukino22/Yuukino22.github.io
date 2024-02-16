@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Yifeng Xiong"
 author_profile: true
 redirect_from: 
   - /about/

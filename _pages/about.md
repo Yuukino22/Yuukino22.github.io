@@ -21,10 +21,10 @@ Recent News
 Publications and Preprints
 ======
 <div style="display: flex; margin-bottom: 20px;">
-  <div style="flex: 20%; padding-right: 20px;">
+  <div style="flex: 40%; padding-right: 20px;">
     <img src="../assets/lfd.png" alt="Paper 1" style="width: 100%;">
   </div>
-  <div style="flex: 80%;">
+  <div style="flex: 60%;">
     <strong>Light Field Diffusion for Single-View Novel View Synthesis</strong><br>
     <a href="https://yuukino22.github.io/">Yifeng Xiong</a>, <a href="https://ics.uci.edu/~haoyum3">Haoyu Ma</a>, <a href="https://scholar.google.com/citations?user=c6wKvwgAAAAJ&hl=en">Shanlin Sun</a>, <a href="https://scholar.google.com/citations?user=GdIW8DUAAAAJ&hl=en">Kun Han</a>, <a href="https://scholar.google.com/citations?user=2X3D1-4AAAAJ&hl=en">Hao Tang</a>, <a href="https://ics.uci.edu/~xhx/">Xiaohui Xie</a><br>
     <em>arxiv, 2023</em><br>

@@ -15,8 +15,9 @@ You can find my CV here: [Yifeng's Curriculum Vitate](../assets/CV.pdf)
 
 Recent News
 ======
+- \[Apr 2024\] One paper is accepted for BMC Neuroscience!
 - \[Sep 2023\] I complete the ICS Honors Program!
-- \[Jun 2023\] MedGen3D is accepted to MICCAI 2023!
+- \[Jun 2023\] One paper is accepted for MICCAI 2023!
 
 Publications and Preprints
 ======
@@ -52,7 +53,7 @@ Publications and Preprints
   <div style="flex: 60%;">
     <strong>Characterizing dysregulations via cell-cell communications in Alzheimer's brains using single-cell transcriptomes</strong><br>
     <a href="https://www.chewyjoey.net//">Cheyu Lee*</a>, <a href="https://scholar.google.com/citations?user=J19aMB4AAAAJ&hl=en">Dylan Riffle*</a>, <a href="https://yuukino22.github.io/">Yifeng Xiong*</a>, <a href="https://www.linkedin.com/in/nadia-momtaz/">Nadia Momtaz</a>, <a href="https://scholar.google.com/citations?user=Jijz0aUAAAAJ&hl=en">Ahyeon Hwang</a>, <a href="https://zihengduan.cn/">Ziheng Duan</a>, <a href="https://ics.uci.edu/~jingz31/">Jing Zhang</a><br>
-    <em>biorxiv, 2023</em><br>
+    <em>BMC Neuroscience</em><br>
     <a href="https://www.biorxiv.org/content/10.1101/2023.07.16.548274v1">Paper</a>
   </div>
 </div>

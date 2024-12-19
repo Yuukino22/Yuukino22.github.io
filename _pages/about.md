@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an incoming [Computer Science](https://cs.ics.uci.edu/) PhD student at [University of California, Irvine](https://uci.edu/). My research interest includes generative models and 3D vision. I am very fortunate to be advised by [Prof. Xiaohui Xie](https://ics.uci.edu/~xhx/).
+I'm a first-year [Computer Science](https://cs.ics.uci.edu/) PhD student at [University of California, Irvine](https://uci.edu/). My research interest includes generative models and 3D vision. I am very fortunate to be advised by [Prof. Xiaohui Xie](https://ics.uci.edu/~xhx/).
 
 You can find my CV here: [Yifeng's Curriculum Vitate](../assets/CV.pdf)
 

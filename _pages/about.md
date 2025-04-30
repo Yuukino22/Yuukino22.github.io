@@ -15,6 +15,7 @@ You can find my CV here: [Yifeng's Curriculum Vitate](../assets/CV.pdf)
 
 Recent News
 ======
+- \[Apr 2025\] One paper is accepted for IEEE Access!
 - \[Sep 2024\] Excited to start my PhD program at UCI! Looking forward to exploring new challenges and opportunities in my research journey.
 - \[Jun 2024\] Successfully get my Bachelor's Degree at UCI!
 - \[Apr 2024\] One paper is accepted for BMC Neuroscience!
@@ -30,8 +31,8 @@ Publications and Preprints
   <div style="flex: 60%;">
     <strong>Light Field Diffusion for Single-View Novel View Synthesis</strong><br>
     <a href="https://yuukino22.github.io/">Yifeng Xiong</a>, <a href="https://ics.uci.edu/~haoyum3">Haoyu Ma</a>, <a href="https://scholar.google.com/citations?user=c6wKvwgAAAAJ&hl=en">Shanlin Sun</a>, <a href="https://scholar.google.com/citations?user=GdIW8DUAAAAJ&hl=en">Kun Han</a>, <a href="https://scholar.google.com/citations?user=2X3D1-4AAAAJ&hl=en">Hao Tang</a>, <a href="https://ics.uci.edu/~xhx/">Xiaohui Xie</a><br>
-    <em>arxiv, 2023</em><br>
-    <a href="https://lightfielddiffusion.github.io/">Webpage</a> / <a href="https://arxiv.org/abs/2309.11525">Paper</a> / <a href="https://lightfielddiffusion.github.io/">Code</a>
+    <em>IEEE Access, 2025</em><br>
+    <a href="https://lightfielddiffusion.github.io/">Webpage</a> / <a href="https://ieeexplore.ieee.org/document/10973615">Paper</a>
   </div>
 </div>
 

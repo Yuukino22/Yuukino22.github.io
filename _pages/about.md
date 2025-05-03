@@ -45,7 +45,7 @@ Publications and Preprints
     <a href="https://scholar.google.com/citations?user=GdIW8DUAAAAJ&hl=en">Kun Han</a>, <a href="https://yuukino22.github.io/">Yifeng Xiong</a>, <a href="https://chenyuyou.me/">Chenyu You</a>, 
     <a href="https://khosravipooya.com/">Pooya Khosravi</a>, <a href="https://scholar.google.com/citations?user=c6wKvwgAAAAJ&hl=en">Shanlin Sun</a>, <a href="https://scholar.google.com/citations?user=-feNPnkAAAAJ&hl=en">Xiangyi Yan</a>, <a href="https://medicine.yale.edu/profile/james-duncan/">James Duncan</a>, <a href="https://ics.uci.edu/~xhx/">Xiaohui Xie</a><br>
     <em>MICCAI, 2023</em><br>
-    <a href="https://arxiv.org/abs/2304.04106">Paper</a>
+    <a href="https://link.springer.com/chapter/10.1007/978-3-031-43907-0_72">Paper</a>
   </div>
 </div>
 
@@ -57,7 +57,7 @@ Publications and Preprints
     <strong>Characterizing dysregulations via cell-cell communications in Alzheimer's brains using single-cell transcriptomes</strong><br>
     <a href="https://www.chewyjoey.net//">Cheyu Lee*</a>, <a href="https://scholar.google.com/citations?user=J19aMB4AAAAJ&hl=en">Dylan Riffle*</a>, <a href="https://yuukino22.github.io/">Yifeng Xiong*</a>, <a href="https://www.linkedin.com/in/nadia-momtaz/">Nadia Momtaz</a>, <a href="https://scholar.google.com/citations?user=Jijz0aUAAAAJ&hl=en">Ahyeon Hwang</a>, <a href="https://zihengduan.cn/">Ziheng Duan</a>, <a href="https://ics.uci.edu/~jingz31/">Jing Zhang</a><br>
     <em>BMC Neuroscience</em><br>
-    <a href="https://www.biorxiv.org/content/10.1101/2023.07.16.548274v1">Paper</a>
+    <a href="https://bmcneurosci.biomedcentral.com/articles/10.1186/s12868-024-00867-y">Paper</a>
   </div>
 </div>
 

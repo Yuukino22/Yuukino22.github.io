@@ -56,7 +56,7 @@ Publications and Preprints
   <div style="flex: 60%;">
     <strong>Characterizing dysregulations via cell-cell communications in Alzheimer's brains using single-cell transcriptomes</strong><br>
     <a href="https://www.chewyjoey.net//">Cheyu Lee*</a>, <a href="https://scholar.google.com/citations?user=J19aMB4AAAAJ&hl=en">Dylan Riffle*</a>, <a href="https://yuukino22.github.io/">Yifeng Xiong*</a>, <a href="https://www.linkedin.com/in/nadia-momtaz/">Nadia Momtaz</a>, <a href="https://scholar.google.com/citations?user=Jijz0aUAAAAJ&hl=en">Ahyeon Hwang</a>, <a href="https://zihengduan.cn/">Ziheng Duan</a>, <a href="https://ics.uci.edu/~jingz31/">Jing Zhang</a><br>
-    <em>BMC Neuroscience</em><br>
+    <em>BMC Neuroscience, 2024</em><br>
     <a href="https://bmcneurosci.biomedcentral.com/articles/10.1186/s12868-024-00867-y">Paper</a>
   </div>
 </div>

@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year [Computer Science](https://cs.ics.uci.edu/) PhD student at [University of California, Irvine](https://uci.edu/). My research interest is multimodal generative AI systems. I am very fortunate to be advised by [Prof. Xiaohui Xie](https://ics.uci.edu/~xhx/).
+I'm a second-year [Computer Science](https://cs.ics.uci.edu/) PhD student at [University of California, Irvine](https://uci.edu/). My research interest is Parameter-Efficient Fine-Tuning (PEFT) methods. I am very fortunate to be advised by [Prof. Xiaohui Xie](https://ics.uci.edu/~xhx/).
 
 You can find my CV here: [Yifeng's Curriculum Vitate](../assets/CV.pdf)
 
@@ -15,15 +15,28 @@ You can find my CV here: [Yifeng's Curriculum Vitate](../assets/CV.pdf)
 
 Recent News
 ======
-- \[Apr 2025\] One paper is accepted for IEEE Access!
+- \[Jun 2025\] One paper is accepted at ICCV 2025!
+- \[Apr 2025\] One paper is accepted at IEEE Access!
 - \[Sep 2024\] Excited to start my PhD program at UCI! Looking forward to exploring new challenges and opportunities in my research journey.
 - \[Jun 2024\] Successfully get my Bachelor's Degree at UCI!
-- \[Apr 2024\] One paper is accepted for BMC Neuroscience!
+- \[Apr 2024\] One paper is accepted at BMC Neuroscience!
 - \[Sep 2023\] I complete the ICS Honors Program!
-- \[Jun 2023\] One paper is accepted for MICCAI 2023!
+- \[Jun 2023\] One paper is accepted at MICCAI 2023!
 
 Publications and Preprints
 ======
+<div style="display: flex; margin-bottom: 20px;">
+  <div style="flex: 40%; padding-right: 20px;">
+    <img src="../assets/ouroboros.pdf" alt="Paper 1" style="width: 100%;">
+  </div>
+  <div style="flex: 60%;">
+    <strong>Ouroboros: Single-step Diffusion Models for Cycle-consistent Forward and Inverse Rendering</strong><br>
+    <a href="https://siwensun.github.io/">Shanlin Sun</a>,<a href="https://yfwang.me/">Yifan Wang</a>, Hanwen Zhang, <a href="https://yuukino22.github.io/">Yifeng Xiong</a>, Qin Ren, Ruogu Fang, <a href="https://ics.uci.edu/~xhx/">Xiaohui Xie</a><br>, <a href="https://chenyuyou.me/">Chenyu You</a>
+    <em>ICCV, 2025</em><br>
+    <a href="https://arxiv.org/abs/2508.14461">Paper</a>
+  </div>
+</div>
+
 <div style="display: flex; margin-bottom: 20px;">
   <div style="flex: 40%; padding-right: 20px;">
     <img src="../assets/lfd.png" alt="Paper 1" style="width: 100%;">

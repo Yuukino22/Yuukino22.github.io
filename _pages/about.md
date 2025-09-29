@@ -27,7 +27,7 @@ Publications and Preprints
 ======
 <div style="display: flex; margin-bottom: 20px;">
   <div style="flex: 40%; padding-right: 20px;">
-    <img src="../assets/ouroboros.pdf" alt="Paper 1" style="width: 100%;">
+    <img src="../assets/ouroboros.png" alt="Paper 1" style="width: 100%;">
   </div>
   <div style="flex: 60%;">
     <strong>Ouroboros: Single-step Diffusion Models for Cycle-consistent Forward and Inverse Rendering</strong><br>

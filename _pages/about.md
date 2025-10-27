@@ -33,7 +33,7 @@ Publications and Preprints
     <strong>Ouroboros: Single-step Diffusion Models for Cycle-consistent Forward and Inverse Rendering</strong><br>
     <a href="https://siwensun.github.io/">Shanlin Sun</a>,<a href="https://yfwang.me/">Yifan Wang</a>, Hanwen Zhang, <a href="https://yuukino22.github.io/">Yifeng Xiong</a>, Qin Ren, Ruogu Fang, <a href="https://ics.uci.edu/~xhx/">Xiaohui Xie</a>, <a href="https://chenyuyou.me/">Chenyu You</a><br>
     <em>ICCV, 2025</em><br>
-    <a href="https://arxiv.org/abs/2508.14461">Paper</a>
+    <a href="https://siwensun.github.io/ouroboros-project/">Webpage</a> / <a href="https://arxiv.org/abs/2508.14461">Paper</a> / <a href="https://github.com/Y-Research-SBU/Ouroboros">Code</a>
   </div>
 </div>
 

@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year [Computer Science](https://cs.ics.uci.edu/) PhD student at [University of California, Irvine](https://uci.edu/). My research interest is Parameter-Efficient Fine-Tuning (PEFT) methods. I am very fortunate to be advised by [Prof. Xiaohui Xie](https://ics.uci.edu/~xhx/).
+I'm a second-year [Computer Science](https://cs.ics.uci.edu/) PhD student at [University of California, Irvine](https://uci.edu/). My research interest is Parameter-Efficient Fine-Tuning (PEFT) methods. I am very fortunate to be advised by [Prof. Xiaohui Xie](https://xhx.github.io/).
 
 You can find my CV here: [Yifeng's Curriculum Vitate](../assets/CV.pdf)
 

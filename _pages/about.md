@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year [Computer Science](https://cs.ics.uci.edu/) PhD student at [University of California, Irvine](https://uci.edu/). My research interest is Parameter-Efficient Fine-Tuning (PEFT) methods. I am very fortunate to be advised by [Prof. Xiaohui Xie](https://xhx.github.io/).
+I'm a second-year [Computer Science](https://cs.ics.uci.edu/) PhD student at [University of California, Irvine](https://uci.edu/). My research interests are Long-term memory of LLM and Parameter-Efficient Fine-Tuning (PEFT) methods. I am very fortunate to be advised by [Prof. Xiaohui Xie](https://xhx.github.io/).
 
 You can find my CV here: [Yifeng's Curriculum Vitate](../assets/CV.pdf)
 
@@ -15,6 +15,7 @@ You can find my CV here: [Yifeng's Curriculum Vitate](../assets/CV.pdf)
 
 Recent News
 ======
+- \[Nov 2025\] One paper is accepted at AAAI 2026!
 - \[Jun 2025\] One paper is accepted at ICCV 2025!
 - \[Apr 2025\] One paper is accepted at IEEE Access!
 - \[Sep 2024\] Excited to start my PhD program at UCI! Looking forward to exploring new challenges and opportunities in my research journey.
@@ -25,6 +26,18 @@ Recent News
 
 Publications and Preprints
 ======
+<div style="display: flex; margin-bottom: 20px;">
+  <div style="flex: 40%; padding-right: 20px;">
+    <img src="../assets/oplora.png" alt="Paper 1" style="width: 100%;">
+  </div>
+  <div style="flex: 60%;">
+    <strong>OPLoRA: Orthogonal Projection LoRA Prevents Catastrophic Forgetting during Parameter-Efficient Fine-Tuning</strong><br>
+    <a href="https://yuukino22.github.io/">Yifeng Xiong</a>, <a href="https://ics.uci.edu/~xhx/">Xiaohui Xie</a><br>
+    <em>AAAI, 2026</em><br>
+    <a href="https://arxiv.org/abs/2510.13003">Paper</a>
+  </div>
+</div>
+
 <div style="display: flex; margin-bottom: 20px;">
   <div style="flex: 40%; padding-right: 20px;">
     <img src="../assets/ouroboros.png" alt="Paper 1" style="width: 100%;">

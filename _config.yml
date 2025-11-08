@@ -11,9 +11,9 @@ title                    : "Yifeng Xiong / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yifeng Xiong"
 description              : &description "fifth year undergraduate student from UC Irvine"
-url                      : https://Yuukino22.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yifeng-xiong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Yuukino22/Yuukino22.github.io"
+repository               : "yifeng-xiong/yifeng-xiong.github.io"
 
 # Site Author
 author:
@@ -39,7 +39,7 @@ author:
   facebook         :
   flickr           :
   foursquare       :
-  github           : "Yuukino22"
+  github           : "yifeng-xiong"
   goodreads        :
   google_plus      :
   keybase          :

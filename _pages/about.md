@@ -32,7 +32,7 @@ Publications and Preprints
   </div>
   <div style="flex: 60%;">
     <strong>OPLoRA: Orthogonal Projection LoRA Prevents Catastrophic Forgetting during Parameter-Efficient Fine-Tuning</strong><br>
-    <a href="https://yuukino22.github.io/">Yifeng Xiong</a>, <a href="https://ics.uci.edu/~xhx/">Xiaohui Xie</a><br>
+    <a href="https://yifeng-xiong.github.io/">Yifeng Xiong</a>, <a href="https://ics.uci.edu/~xhx/">Xiaohui Xie</a><br>
     <em>AAAI, 2026</em><br>
     <a href="https://arxiv.org/abs/2510.13003">Paper</a>
   </div>
@@ -44,7 +44,7 @@ Publications and Preprints
   </div>
   <div style="flex: 60%;">
     <strong>Ouroboros: Single-step Diffusion Models for Cycle-consistent Forward and Inverse Rendering</strong><br>
-    <a href="https://siwensun.github.io/">Shanlin Sun</a>,<a href="https://yfwang.me/">Yifan Wang</a>, Hanwen Zhang, <a href="https://yuukino22.github.io/">Yifeng Xiong</a>, Qin Ren, Ruogu Fang, <a href="https://ics.uci.edu/~xhx/">Xiaohui Xie</a>, <a href="https://chenyuyou.me/">Chenyu You</a><br>
+    <a href="https://siwensun.github.io/">Shanlin Sun</a>,<a href="https://yfwang.me/">Yifan Wang</a>, Hanwen Zhang, <a href="https://yifeng-xiong.github.io/">Yifeng Xiong</a>, Qin Ren, Ruogu Fang, <a href="https://ics.uci.edu/~xhx/">Xiaohui Xie</a>, <a href="https://chenyuyou.me/">Chenyu You</a><br>
     <em>ICCV, 2025</em><br>
     <a href="https://siwensun.github.io/ouroboros-project/">Webpage</a> / <a href="https://arxiv.org/abs/2508.14461">Paper</a> / <a href="https://github.com/Y-Research-SBU/Ouroboros">Code</a>
   </div>
@@ -56,7 +56,7 @@ Publications and Preprints
   </div>
   <div style="flex: 60%;">
     <strong>Light Field Diffusion for Single-View Novel View Synthesis</strong><br>
-    <a href="https://yuukino22.github.io/">Yifeng Xiong</a>, <a href="https://ics.uci.edu/~haoyum3">Haoyu Ma</a>, <a href="https://scholar.google.com/citations?user=c6wKvwgAAAAJ&hl=en">Shanlin Sun</a>, <a href="https://scholar.google.com/citations?user=GdIW8DUAAAAJ&hl=en">Kun Han</a>, <a href="https://scholar.google.com/citations?user=2X3D1-4AAAAJ&hl=en">Hao Tang</a>, <a href="https://ics.uci.edu/~xhx/">Xiaohui Xie</a><br>
+    <a href="https://yifeng-xiong.github.io/">Yifeng Xiong</a>, <a href="https://ics.uci.edu/~haoyum3">Haoyu Ma</a>, <a href="https://scholar.google.com/citations?user=c6wKvwgAAAAJ&hl=en">Shanlin Sun</a>, <a href="https://scholar.google.com/citations?user=GdIW8DUAAAAJ&hl=en">Kun Han</a>, <a href="https://scholar.google.com/citations?user=2X3D1-4AAAAJ&hl=en">Hao Tang</a>, <a href="https://ics.uci.edu/~xhx/">Xiaohui Xie</a><br>
     <em>IEEE Access, 2025</em><br>
     <a href="https://lightfielddiffusion.github.io/">Webpage</a> / <a href="https://ieeexplore.ieee.org/document/10973615">Paper</a>
   </div>
@@ -68,7 +68,7 @@ Publications and Preprints
   </div>
   <div style="flex: 60%;">
     <strong>MedGen3D: A Deep Generative Framework for Paired 3D Image and Mask Generation</strong><br>
-    <a href="https://scholar.google.com/citations?user=GdIW8DUAAAAJ&hl=en">Kun Han</a>, <a href="https://yuukino22.github.io/">Yifeng Xiong</a>, <a href="https://chenyuyou.me/">Chenyu You</a>, 
+    <a href="https://scholar.google.com/citations?user=GdIW8DUAAAAJ&hl=en">Kun Han</a>, <a href="https://yifeng-xiong.github.io/">Yifeng Xiong</a>, <a href="https://chenyuyou.me/">Chenyu You</a>, 
     <a href="https://khosravipooya.com/">Pooya Khosravi</a>, <a href="https://scholar.google.com/citations?user=c6wKvwgAAAAJ&hl=en">Shanlin Sun</a>, <a href="https://scholar.google.com/citations?user=-feNPnkAAAAJ&hl=en">Xiangyi Yan</a>, <a href="https://medicine.yale.edu/profile/james-duncan/">James Duncan</a>, <a href="https://ics.uci.edu/~xhx/">Xiaohui Xie</a><br>
     <em>MICCAI, 2023</em><br>
     <a href="https://link.springer.com/chapter/10.1007/978-3-031-43907-0_72">Paper</a>
@@ -81,7 +81,7 @@ Publications and Preprints
   </div>
   <div style="flex: 60%;">
     <strong>Characterizing dysregulations via cell-cell communications in Alzheimer's brains using single-cell transcriptomes</strong><br>
-    <a href="https://www.chewyjoey.net//">Cheyu Lee*</a>, <a href="https://scholar.google.com/citations?user=J19aMB4AAAAJ&hl=en">Dylan Riffle*</a>, <a href="https://yuukino22.github.io/">Yifeng Xiong*</a>, <a href="https://www.linkedin.com/in/nadia-momtaz/">Nadia Momtaz</a>, <a href="https://scholar.google.com/citations?user=Jijz0aUAAAAJ&hl=en">Ahyeon Hwang</a>, <a href="https://zihengduan.cn/">Ziheng Duan</a>, <a href="https://ics.uci.edu/~jingz31/">Jing Zhang</a><br>
+    <a href="https://www.chewyjoey.net//">Cheyu Lee*</a>, <a href="https://scholar.google.com/citations?user=J19aMB4AAAAJ&hl=en">Dylan Riffle*</a>, <a href="https://yifeng-xiong.github.io/">Yifeng Xiong*</a>, <a href="https://www.linkedin.com/in/nadia-momtaz/">Nadia Momtaz</a>, <a href="https://scholar.google.com/citations?user=Jijz0aUAAAAJ&hl=en">Ahyeon Hwang</a>, <a href="https://zihengduan.cn/">Ziheng Duan</a>, <a href="https://ics.uci.edu/~jingz31/">Jing Zhang</a><br>
     <em>BMC Neuroscience, 2024</em><br>
     <a href="https://bmcneurosci.biomedcentral.com/articles/10.1186/s12868-024-00867-y">Paper</a>
   </div>

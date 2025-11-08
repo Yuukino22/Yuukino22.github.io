@@ -19,11 +19,11 @@ repository               : "yifeng-xiong/yifeng-xiong.github.io"
 author:
   name             : "Yifeng Xiong"
   avatar           : "profile.png"
-  bio              : "Yuukino"
+  bio              : 
   pronouns         : "he/him"
   location         : "Irvine"
   employer         :
-  email            :  
+  email            :  "yifengx4@uci.edu"
   uri              :
 
   # Manuscript repositories
